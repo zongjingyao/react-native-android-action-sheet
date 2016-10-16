@@ -118,7 +118,7 @@ showActionSheetWithCustomOptions() {
 
 ## Screenshots
 ### showActionSheetWithOptions
-![showActionSheetWithOptions](https://raw.githubusercontent.com/zongjingyao/react-native-android-action-sheet/master/screenshot/showActionSheetWithOptions.png)
+![showActionSheetWithOptions](https://raw.githubusercontent.com/zongjingyao/react-native-android-action-sheet/master/screenshots/showActionSheetWithOptions.png)
 
 ### showActionSheetWithCustomOptions
-![showActionSheetWithCustomOptions](https://raw.githubusercontent.com/zongjingyao/react-native-android-action-sheet/master/screenshot/showActionSheetWithCustomOptions.png)
+![showActionSheetWithCustomOptions](https://raw.githubusercontent.com/zongjingyao/react-native-android-action-sheet/master/screenshots/showActionSheetWithCustomOptions.png)
