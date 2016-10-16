@@ -15,5 +15,5 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 	compile "com.facebook.react:react-native:+"
-    compile 'com.github.zongjingyao:actionsheet:0.1'
+    compile 'com.github.zongjingyao:actionsheet:0.1.2'
 }
