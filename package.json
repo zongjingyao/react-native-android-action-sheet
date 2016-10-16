@@ -4,9 +4,6 @@
     "description": "ActionSheet on Android for React Native",
     "main": "index.js",
     "author": "Jingyao Zong <zongjingyao@gmail.com> (https://github.com/zongjingyao)",
-    "peerDependencies": {
-        "react-native": ">=0.10.0"
-    },
     "homepage": "https://github.com/zongjingyao/react-native-android-action-sheet",
     "keywords": [
         "react",
